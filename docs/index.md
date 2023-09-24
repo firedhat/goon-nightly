@@ -1,14 +1,12 @@
-<center>
 
 | Map    | Download                |
 |--------|-------------------------|
 |Atlas   | [ZIP Archive][ATLAS]    |
 |Devtest | [ZIP Archive][DEVTEST]  |
 
-[![Nightly](https://github.com/firedhat/goon-nightly/actions/workflows/nightly.yml/badge.svg)](https://github.com/firedhat/goon-nightly/actions/workflows/nightly.yml)  
+[![Nightly](https://github.com/firedhat/goon-nightly/actions/workflows/nightly.yml/badge.svg)](https://github.com/firedhat/goon-nightly/actions/workflows/nightly.yml)\
 If this says 'failed' then these packages won't be up-to-date.
 
-</center>
 
 [ATLAS]: https://nightly.link/firedhat/goon-nightly/workflows/nightly/main/GoonNightlyATLAS.zip
 [DEVTEST]: https://nightly.link/firedhat/goon-nightly/workflows/nightly/main/GoonNightlyDEVTEST.zip
