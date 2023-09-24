@@ -23,7 +23,7 @@ These packages are maintained by Firedhat, who **is not a Goonstation Developer*
 3. Run `goonstation.dmb` (the BYOND executable)
 4. You are an admin! Time for crime.
 
-To update to a new version, do this again, but drag the new `goonstation` folder into the one you already have.
+To update to a new version, do this again, but drag the new `goonstation` folder into the one you already have. Then replace the old files with the new one (be sure to check any 'do this for all files' option!)
 
 ## Tricks
 
