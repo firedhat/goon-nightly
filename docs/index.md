@@ -23,6 +23,14 @@ These packages are maintained by Firedhat, who **is not a Goonstation Developer*
 3. Run `goonstation.dmb` (the BYOND executable)
 4. You are an admin! Time for crime.
 
-## Updating
+To update to a new version, do this again, but drag the new `goonstation` folder into the one you already have.
 
-Do the above instructions, but drag the new `goonstation` folder into the one you already have.
+## Tricks
+
+- In the 'Server' tab there is a button to skip the pre-game lobby.
+- You can spawn anything using the  `Spawn` verb.
+    - `Spawn re/san` spawns the Captain's spare.
+- In the 'Self' tab you can toggle lighting, noclip, and god mode.
+- To control the shuttle or game mode, use the `Game-Panel` verb.
+
+Feel free to contribute more tips on GitHub.
