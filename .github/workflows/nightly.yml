@@ -45,6 +45,8 @@ jobs:
       - name: Package
         run: |
           mkdir -p packaged/goonstation/sound/
+          mkdir -p packaged/goonstation/data/
+          echo "extended" > packaged/goonstation/data/mode.txt
           mv sound/radio_station packaged/goonstation/sound/
           mv goonstation.dmb goonstation.rsc strings assets browserassets LICENSE rust_g.dll ./packaged/goonstation
 
